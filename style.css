@@ -60,7 +60,7 @@
 }
 .ser-h1{
     font-family: 'Ubuntu', sans-serif;
-    color: rgb(34, 247, 44);
+    color: rgb(254, 20, 8);
     letter-spacing: 3px;
     font-size: 50px;
     font-style: italic;
@@ -71,7 +71,7 @@
     
 }
 .serv-sub-cont{
-    border:2px rgb(34, 247, 44) solid;
+    border:2px rgb(254, 20, 8) solid;
     margin: 20px;
     width: 300px;
 }
